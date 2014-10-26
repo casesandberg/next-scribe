@@ -2,13 +2,13 @@
   "name": "next-scribe",
   "main": "./lib/nextScribe",
   "version": "0.0.0",
-  "description": "Use htmltoless.js with copy/paste in Atom",
+  "description": "Copy HTML and paste structured LESS in Atom",
   "repository": "https://github.com/casesandberg/next-scribe",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
   "dependencies": {
-      "htmltoless": "git+ssh://git@github.com:casesandberg/htmltoless.git"
+    "htmltoless": "0.0.1"
   }
 }
