@@ -1,7 +1,7 @@
 {
   "name": "next-scribe",
   "main": "./lib/nextScribe",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Copy HTML and paste structured LESS in Atom",
   "repository": "https://github.com/casesandberg/next-scribe",
   "license": "MIT",
